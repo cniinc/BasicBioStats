@@ -8,7 +8,7 @@ import matplotlib.pyplot
 #for saving PNGs of figures
 matplotlib.use('agg')
 
-print("test")
+
 msg = "Completing Homework for lessons 1,2"
 print(msg)
 
